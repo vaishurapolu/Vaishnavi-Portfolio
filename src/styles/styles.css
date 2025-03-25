@@ -1,0 +1,12 @@
+body{
+    background-image: url('../../public/images/portfolio-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+ 
+   
+}
+.shade{
+    background-color: rgba(0,0,0,0.6);
+    height: 100vh;
+   margin-top :-25px;
+}
